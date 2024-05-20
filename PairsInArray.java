@@ -2,7 +2,7 @@ public class PairsInArray {
     public static void PairsinArray(int arr[]){
         for (int i = 0; i < arr.length; i++) {
             for (int index = 0; index < arr.length; index++) {
-                System.out.println("("+arr[i]+","+arr[index]+")");
+                System.out.print("("+arr[i]+","+arr[index]+")"+",");
             }
         }
     }
