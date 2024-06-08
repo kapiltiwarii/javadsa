@@ -21,7 +21,7 @@ public class SelectionSort {
         }
 
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[]={6,3,5,4,2,1};
         Selectionsort(arr);
          Printarr(arr);

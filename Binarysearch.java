@@ -56,7 +56,7 @@ public class Binarysearch{
         }
         return-1;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int numbers[]={2,4,6,8,10,12,14,20};
         int key=6;
         int index=binarysearch(numbers, key);

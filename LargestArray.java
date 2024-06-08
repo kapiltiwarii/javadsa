@@ -15,7 +15,7 @@ public class LargestArray {
         return Largest;
   
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int numbers[]={2,4,5,6,1};
         int x=GetLargest(numbers);
         System.out.println("LARGEST NUMBER IS:"+x);

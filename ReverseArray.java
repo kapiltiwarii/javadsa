@@ -12,7 +12,7 @@ public class ReverseArray {
             System.out.println(numbers[i]);
         }
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int numbers[]={2,4,6,7,8,10};
          Reversearray(numbers);
 

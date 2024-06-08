@@ -15,7 +15,7 @@ public class SubArrays {
       }
       System.out.println("Total sub arrays ="+ts);
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int arr[]= {2,4,6,8,10};
          Subarrays(arr);
     }

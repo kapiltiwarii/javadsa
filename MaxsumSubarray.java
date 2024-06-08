@@ -22,7 +22,7 @@ public class MaxsumSubarray {
           }
           System.out.println("Maxsum of sub arrays ="+Maxsum);
         }
-        public static void main(String[] args) {
+        public static void main(Strings[] args) {
             int arr[]= {2,4,6,8,10};
              Subarrays(arr);
         }

@@ -11,7 +11,7 @@ public static int linearsearch(int numbers[],int key){
     }
 return -1;
 }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         // int arr[]= new int[5];
         // for (int i = 0; i < arr.length; i++) {
         //     Scanner sc = new Scanner(System.in) ;
