@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "eqals",
+            "request": "launch",
+            "mainClass": "eqals",
+            "projectName": "javadsa_76e221d"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "ShortestPath",
+            "projectName": "javadsa_76e221d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
